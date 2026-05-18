@@ -2,7 +2,7 @@
 
 # The Wokwi Template was copied for demo purpose
 
-- [Read the documentation for project](docs/info.md)
+- try
 
 ## What is Tiny Tapeout?
 
